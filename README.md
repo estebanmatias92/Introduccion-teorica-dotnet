@@ -8,9 +8,9 @@ _*Aclaraciones: **.NET Framework** ha ido cambiando de nombre:_
 2) _**.NET Core**: "Para crear apps multiplataforma, el framework/SDK tuvo que rehacerse de cero"_
 3) _**.NET**: "Ahora simplemente se llama .NET, sigue siendo multiplataforma, se agregaron los dispositivos moviles"_
 
-*Aclaraciones 2: A efectos de enseñanza, los siguientes nombres entonces son equivalentes:
+_*Aclaraciones 2: A efectos de enseñanza, los siguientes nombres entonces son equivalentes:_
 
-- ".NET Framework" ==  ".NET Core" == ".NET SDK"
+- _".NET Framework" ==  ".NET Core" == ".NET SDK"_
 
 _*Aclaraciones 3: **.NET Framework/Core/SDK** Siempre incluye **.NET Runtime**:_
 
@@ -21,12 +21,12 @@ _*Aclaraciones 3: **.NET Framework/Core/SDK** Siempre incluye **.NET Runtime**:_
 ### ¿Qué es .NET? ¿Qué se puede hacer con él?
 
 - [.NET for Dummies](https://dusted.codes/dotnet-basics#what-is-net)
-- [.NET on Wikipedia](https://en.wikipedia.org/wiki/.NET)
+- [.NET [Wikipedia]](https://en.wikipedia.org/wiki/.NET)
 - [What is .NET? An Overview of the Platform](https://auth0.com/blog/what-is-dotnet-platform-overview/)
 
 ### ¿Qué es .NET Framework/Core (SDK)? ¿Cuál es su version estable actual?
 
-- [.NET Framework on Wikipedia](https://en.wikipedia.org/wiki/.NET_Framework#Alternative_implementations)
+- [.NET Framework [Wikipedia]](https://en.wikipedia.org/wiki/.NET_Framework#Alternative_implementations)
 - [Introduction to .NET Framework](https://www.javatpoint.com/vb-net-dot-net-framework-introduction)
 - [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 - [Diferencias entre .NET Framework a .NET Core y .NET 6](https://www.youtube.com/watch?v=bXXKPNS4vFc)
@@ -44,24 +44,50 @@ _*Aclaraciones 3: **.NET Framework/Core/SDK** Siempre incluye **.NET Runtime**:_
 
 ### ¿Bajo qué paradigmas está construido C# (CSharp)?
 
-- [CSharp on Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C,oriented%20programming%20disciplines.%20%5B17)
+- [CSharp [Wikipedia]](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C,oriented%20programming%20disciplines.%20%5B17)
 
 ## Definiciones Tecnicas Especificas de .NET
 
 ### Menciona algunos componentes de .NET, indica lo que hacen
 
+- [Introduction to .NET Framework](https://www.javatpoint.com/vb-net-dot-net-framework-introduction)
+
 ### ¿Como el Runtime de .NET procesa los lenguajes de programacion?
 
-### ¿Qué es CLR (Common Language Runtime)?
+- [How is a .NET Application Compiled and Run?](https://dotnettutorials.net/lesson/common-language-runtime-dotnet/)
+
+### ¿Qué es una Virtual Machine (VM)? ¿Qué es el CLR (Common Language Runtime)?
+
+- [Virtual Machine [Wikipedia]](https://en.wikipedia.org/wiki/Virtual_machine)
+- [Common Language Runtime [Wikipedia]](https://en.wikipedia.org/wiki/Common_Language_Runtime)
+- [How is a .NET Application Compiled and Run?](https://dotnettutorials.net/lesson/common-language-runtime-dotnet/)
 
 ## Definiciones Tecnicas Generales
 
 ### ¿A que se denomina proceso de compilacion? ¿A que se denomina proceso de interpretacion?
 
+- [Compiler [Wikipedia]](https://en.wikipedia.org/wiki/Compiler)
+- [What is a Compiler?](https://www.youtube.com/watch?v=zIjI8H945T8)
+- [Interpreter (computing) [Wikipedia]](https://en.wikipedia.org/wiki/Interpreter_(computing))
+- [What is a Interpreter](https://www.youtube.com/watch?v=d7Qs-zHzQhc)
+
 ### ¿Hay diferencias entre ambos? Cuales?
+
+- [Interpreted vs Compiled Programming Languages: What's the Difference?](https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/)
 
 ### ¿Qué es el JIT (Just in Time) Compiling?
 
-### ¿Qué es "Machine Code"?
+- [Just-in-time compilation [Wikipedia]](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+- [Just In Time (JIT) Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 
-### ¿A qué se denomina "archivo binario"? ¿A que se denomina "ejecutable"? ¿Qué similitudes o diferencias tienen?
+### ¿Qué es "Source Code"? ¿Qué es "Binary/Machine Code"?
+
+- [Source code [Wikipedia]](https://en.wikipedia.org/wiki/Source_code)
+- [Machine code [Wikipedia]](https://en.wikipedia.org/wiki/Machine_code)
+- [Source Code, Machine Code and Assembly Language - Learn to Code Series - Video #9](https://www.youtube.com/watch?v=bgN4LBt5buU)
+- [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
+
+### ¿A qué se denomina "Binary File"? ¿A que se denomina "Executable"? ¿Qué similitudes o diferencias tienen?
+
+- [Binary File [Wikipedia]](https://en.wikipedia.org/wiki/Binary_file)
+- [Executable [Wikipedia]](https://en.wikipedia.org/wiki/Executable)
