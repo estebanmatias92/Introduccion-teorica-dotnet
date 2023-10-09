@@ -45,6 +45,8 @@ _*Aclaraciones 3: **.NET Framework/Core/SDK** Siempre incluye **.NET Runtime**:_
 ### ¿Bajo qué paradigmas está construido C# (CSharp)?
 
 - [CSharp [Wikipedia]](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C,oriented%20programming%20disciplines.%20%5B17)
+- [C# in 100 Seconds](https://www.youtube.com/watch?v=ravLFzIguCM)
+- [C vs C++ vs C#](https://www.youtube.com/watch?v=sNMtjs_wQiE)
 
 ## Definiciones Tecnicas Especificas de .NET
 
@@ -90,4 +92,5 @@ _*Aclaraciones 3: **.NET Framework/Core/SDK** Siempre incluye **.NET Runtime**:_
 ### ¿A qué se denomina "Binary File"? ¿A que se denomina "Executable"? ¿Qué similitudes o diferencias tienen?
 
 - [Binary File [Wikipedia]](https://en.wikipedia.org/wiki/Binary_file)
+- [What Are DLLs?](https://www.youtube.com/watch?v=4daUujBgQQ8)
 - [Executable [Wikipedia]](https://en.wikipedia.org/wiki/Executable)
