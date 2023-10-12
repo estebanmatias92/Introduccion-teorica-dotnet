@@ -1,7 +1,6 @@
-# 9. ¿Qué es "Compilación"? ¿A qué se denomina "Interpretación"? ¿Que diferencias existen entre ambos procesos?
+# 9. ¿Qué es "Source Code"? ¿Qué es "Binary/Machine Code"?
 
-- [Compiler [Wikipedia]](https://en.wikipedia.org/wiki/Compiler)
-- [What is a Compiler?](https://www.youtube.com/watch?v=zIjI8H945T8)
-- [Interpreter (computing) [Wikipedia]](https://en.wikipedia.org/wiki/Interpreter_(computing))
-- [What is a Interpreter](https://www.youtube.com/watch?v=d7Qs-zHzQhc)
-- [Interpreted vs Compiled Programming Languages: What's the Difference?](https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/)
+- [Source code [Wikipedia]](https://en.wikipedia.org/wiki/Source_code)
+- [Machine code [Wikipedia]](https://en.wikipedia.org/wiki/Machine_code)
+- [Source Code, Machine Code and Assembly Language - Learn to Code Series - Video #9](https://www.youtube.com/watch?v=bgN4LBt5buU)
+- [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)

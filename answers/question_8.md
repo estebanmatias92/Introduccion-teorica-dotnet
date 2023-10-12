@@ -1,6 +1,5 @@
-# 8. ¿Qué es "Source Code"? ¿Qué es "Binary/Machine Code"?
+# 8. ¿Bajo qué paradigmas está construido C# (CSharp)?
 
-- [Source code [Wikipedia]](https://en.wikipedia.org/wiki/Source_code)
-- [Machine code [Wikipedia]](https://en.wikipedia.org/wiki/Machine_code)
-- [Source Code, Machine Code and Assembly Language - Learn to Code Series - Video #9](https://www.youtube.com/watch?v=bgN4LBt5buU)
-- [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
+- [CSharp [Wikipedia]](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C,oriented%20programming%20disciplines.%20%5B17)
+- [C# in 100 Seconds](https://www.youtube.com/watch?v=ravLFzIguCM)
+- [C vs C++ vs C#](https://www.youtube.com/watch?v=sNMtjs_wQiE)

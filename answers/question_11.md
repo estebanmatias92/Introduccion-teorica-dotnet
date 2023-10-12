@@ -1,5 +1,4 @@
-# 11. ¿Qué es una "Virtual Machine" (VM)? ¿Qué es el CLR (Common Language Runtime)?
+# 11. ¿Qué es el JIT (Just in Time) Compiling?
 
-- [Virtual Machine [Wikipedia]](https://en.wikipedia.org/wiki/Virtual_machine)
-- [Common Language Runtime [Wikipedia]](https://en.wikipedia.org/wiki/Common_Language_Runtime)
-- [How is a .NET Application Compiled and Run?](https://dotnettutorials.net/lesson/common-language-runtime-dotnet/)
+- [Just-in-time compilation [Wikipedia]](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+- [Just In Time (JIT) Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)

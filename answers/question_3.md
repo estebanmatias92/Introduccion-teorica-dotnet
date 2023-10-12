@@ -1,6 +1,4 @@
-# 3. ¿Qué es .NET Framework/Core (SDK)? ¿Cuál es su versión estable actual?
+# 3. ¿A qué se denomina "Proyecto" según .NET? ¿Qué es una "Solución"? ¿Qué diferencias hay entre ambos?
 
-- [.NET Framework [Wikipedia]](https://en.wikipedia.org/wiki/.NET_Framework#Alternative_implementations)
-- [Introduction to .NET Framework](https://www.javatpoint.com/vb-net-dot-net-framework-introduction)
-- [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
-- [Diferencias entre .NET Framework a .NET Core y .NET 6](https://www.youtube.com/watch?v=bXXKPNS4vFc)
+- [What are solutions and projects in Visual Studio?](https://learn.microsoft.com/en-us/visualstudio/ide/solutions-and-projects-in-visual-studio?view=vs-2022)
+- [Solution Vs Project](https://www.youtube.com/watch?v=L2HCvO8dGVg)

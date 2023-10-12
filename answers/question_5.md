@@ -1,3 +1,4 @@
-# 5. ¿Cuales son algunos de los componentes de .NET? ¿Que hacen?
+# 5. ¿Qué es .NET Runtime? ¿Cuál es su versión estable actual?
 
-- [Introduction to .NET Framework](https://www.javatpoint.com/vb-net-dot-net-framework-introduction)
+- [Runtime information](https://learn.microsoft.com/en-us/dotnet/core/install/windows?tabs=net70#runtime-information)
+- [In-Depth Guide to Understanding the .NET Runtime](https://groovetechnology.com/blog/in-depth-guide-to-understanding-the-net-runtime/)

@@ -1,5 +1,3 @@
-# 13. ¿A qué se denomina "Binary File"? ¿Qué es un "Executable"? ¿Qué similitudes o diferencias tienen?
+# 13. ¿Cómo procesa los lenguajes de programación el "entorno de ejecución" (Runtime)?
 
-- [Binary File [Wikipedia]](https://en.wikipedia.org/wiki/Binary_file)
-- [What Are DLLs?](https://www.youtube.com/watch?v=4daUujBgQQ8)
-- [Executable [Wikipedia]](https://en.wikipedia.org/wiki/Executable)
+- [How is a .NET Application Compiled and Run?](https://dotnettutorials.net/lesson/common-language-runtime-dotnet/)
