@@ -6,17 +6,17 @@ Rejunte de Informacion para responder a las dudas y confusiones alrededor del mu
 
 _***Primero**: **.NET Framework** ha ido cambiando de nombre:_
 
-1) _**.NET Framework**: "Librerias y herramientas para crear apps para Windows"_
-2) _**.NET Core**: "Se re-escribe desde cero, se hace multiplataforma y se cambia el nombre"_
-3) _**.NET**: "Se corrige el nombre nuevamente, se agregan los dispositivos moviles a las plataformas disponibles"_
+1) **.NET Framework**: "Librerias y herramientas para crear apps para Windows"
+2) **.NET Core**: "Se re-escribe desde cero, se hace multiplataforma y se cambia el nombre"
+3) **.NET**: "Se corrige el nombre nuevamente, se agregan los dispositivos moviles a las plataformas disponibles"
 
 _***Segundo**: A efectos de enseñanza, los siguientes nombres son equivalentes:_
 
-- _".NET Framework" ==  ".NET Core" == ".NET SDK" == "**SDK**"_
+- ".NET Framework" ==  ".NET Core" == ".NET SDK" == "**SDK**"
 
 _***Tercero**: **.NET Framework/Core/SDK** Siempre incluye **.NET Runtime**:_
 
-- _"Aunque **.NET Runtime**, se pueda usar de forma independiente al framework (todas las pc del planeta, para jugar por ejemplo), el framework necesitara del runtime -entre otras cosas-, para ejecutar los programas"_
+- "Aunque **.NET Runtime**, se pueda usar de forma independiente al framework (todas las pc del planeta, para jugar por ejemplo), el framework necesitara del runtime -entre otras cosas-, para ejecutar los programas"
 
 ## Cuestionario
 
